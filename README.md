@@ -6,6 +6,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
+| [3931-check-adjacent-digit-differences](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
 | ------- |
