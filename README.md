@@ -37,6 +37,7 @@
 | [0735-asteroid-collision](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,4 +169,12 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
