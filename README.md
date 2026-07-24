@@ -38,6 +38,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,8 +177,14 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
