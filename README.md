@@ -45,6 +45,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3861-minimum-capacity-box](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
