@@ -9,6 +9,7 @@
 | [0402-remove-k-digits](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3856-trim-trailing-vowels](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
