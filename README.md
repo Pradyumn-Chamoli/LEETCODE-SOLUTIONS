@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3931-check-adjacent-digit-differences](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
@@ -58,6 +59,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -238,6 +241,7 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -282,6 +286,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Iterator
 |  |
