@@ -44,6 +44,7 @@
 | [0496-next-greater-element-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
@@ -86,6 +87,7 @@
 | [0085-maximal-rectangle](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3870-count-commas-in-range](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3870-count-commas-in-range) |
@@ -304,4 +307,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
