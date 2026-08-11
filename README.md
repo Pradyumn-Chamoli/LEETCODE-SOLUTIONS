@@ -53,6 +53,7 @@
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -69,6 +70,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
@@ -270,6 +272,7 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
