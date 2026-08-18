@@ -43,6 +43,7 @@
 | [0085-maximal-rectangle](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
@@ -144,6 +145,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
@@ -283,6 +285,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -325,6 +328,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -410,4 +414,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
