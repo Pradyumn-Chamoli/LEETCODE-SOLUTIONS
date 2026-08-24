@@ -58,6 +58,7 @@
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -121,6 +122,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -319,6 +321,7 @@
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -392,6 +395,7 @@
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -400,6 +404,7 @@
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -407,6 +412,7 @@
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
@@ -426,6 +432,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
