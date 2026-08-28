@@ -55,6 +55,7 @@
 | [0503-next-greater-element-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
@@ -190,6 +191,7 @@
 | [0130-surrounded-regions](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
 ## Data Stream
@@ -264,6 +266,7 @@
 | [0547-number-of-provinces](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
@@ -320,6 +323,7 @@
 | [0547-number-of-provinces](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
@@ -488,5 +492,6 @@
 | [0130-surrounded-regions](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
