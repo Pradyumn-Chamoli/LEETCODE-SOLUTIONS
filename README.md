@@ -208,6 +208,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0146-lru-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Doubly-Linked List
 |  |
 | ------- |
