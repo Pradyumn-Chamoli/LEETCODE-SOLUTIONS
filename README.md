@@ -83,6 +83,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3861-minimum-capacity-box) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Hash Table
 |  |
@@ -368,6 +369,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
