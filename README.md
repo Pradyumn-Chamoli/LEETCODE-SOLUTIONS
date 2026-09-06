@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [1927-sum-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1927-sum-game) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
