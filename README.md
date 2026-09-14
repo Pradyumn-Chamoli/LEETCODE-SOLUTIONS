@@ -374,6 +374,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
@@ -566,4 +567,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
