@@ -70,6 +70,7 @@
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -197,6 +198,7 @@
 | [0621-task-scheduler](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 ## Data Stream
 |  |
 | ------- |
@@ -303,6 +306,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -368,6 +372,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Sorting
 |  |
@@ -426,6 +431,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
@@ -553,6 +559,7 @@
 | [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Coloring
 |  |
@@ -596,4 +603,5 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
