@@ -62,6 +62,7 @@
 | [0621-task-scheduler](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
@@ -199,6 +200,7 @@
 | [0621-task-scheduler](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
@@ -220,6 +222,7 @@
 | [0463-island-perimeter](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
@@ -301,6 +304,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -367,6 +371,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -433,6 +438,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
+| [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
@@ -487,6 +493,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1510-stone-game-iv) |
@@ -559,6 +566,7 @@
 | [0200-number-of-islands](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
@@ -605,5 +613,6 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
