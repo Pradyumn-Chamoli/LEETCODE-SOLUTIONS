@@ -146,6 +146,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
@@ -201,6 +202,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
@@ -306,6 +308,7 @@
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -373,6 +376,7 @@
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -514,6 +518,7 @@
 | [0547-number-of-provinces](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
@@ -609,6 +614,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
