@@ -159,6 +159,7 @@
 | [1510-stone-game-iv](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -525,6 +526,7 @@
 | [0785-is-graph-bipartite](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3310-remove-methods-from-project](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
@@ -594,6 +596,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -620,12 +623,14 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bracket Sequences
 |  |
 | ------- |
