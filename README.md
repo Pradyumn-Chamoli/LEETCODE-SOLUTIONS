@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
@@ -143,6 +145,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
@@ -635,6 +638,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
