@@ -11,6 +11,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1927-sum-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1927-sum-game) |
@@ -43,6 +44,7 @@
 | [0503-next-greater-element-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -644,6 +646,7 @@
 | [0020-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
