@@ -9,6 +9,7 @@
 | [0115-distinct-subsequences](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0856-score-of-parentheses) |
@@ -385,6 +386,7 @@
 | [0200-number-of-islands](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0547-number-of-provinces) |
@@ -543,6 +545,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
