@@ -15,6 +15,7 @@
 | [0856-score-of-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1927-sum-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -51,6 +52,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2104-sum-of-subarray-ranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 ## Array
@@ -654,6 +656,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
