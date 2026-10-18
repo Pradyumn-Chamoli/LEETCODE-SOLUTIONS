@@ -86,6 +86,7 @@
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
@@ -174,6 +175,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -307,6 +309,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -382,6 +385,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -438,6 +442,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1927-sum-game) |
@@ -486,6 +491,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -501,6 +507,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting Sort
 |  |
 | ------- |
@@ -599,6 +606,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Union-Find
@@ -611,6 +619,7 @@
 | [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Coloring
@@ -673,4 +682,12 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
