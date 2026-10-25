@@ -85,6 +85,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -261,6 +262,7 @@
 | [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Data Stream
@@ -349,6 +351,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -420,6 +423,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3310-remove-methods-from-project) |
 ## Sorting
@@ -626,6 +630,7 @@
 | [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
