@@ -31,6 +31,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3856-trim-trailing-vowels](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3931-check-adjacent-digit-differences) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -242,6 +243,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -583,6 +585,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3310-remove-methods-from-project](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -684,6 +687,7 @@
 | [0743-network-delay-time](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
