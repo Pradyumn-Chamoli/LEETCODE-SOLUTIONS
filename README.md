@@ -110,6 +110,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -190,6 +191,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -271,6 +273,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Data Stream
 |  |
