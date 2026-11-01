@@ -71,6 +71,7 @@
 | [0200-number-of-islands](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0496-next-greater-element-i) |
@@ -455,6 +456,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
