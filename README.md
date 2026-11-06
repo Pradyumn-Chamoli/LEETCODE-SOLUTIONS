@@ -100,6 +100,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -139,6 +140,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
+| [2747-count-zero-request-servers](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+| [2747-count-zero-request-servers](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -449,6 +452,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
