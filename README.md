@@ -94,6 +94,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
@@ -249,6 +250,7 @@
 | [0778-swim-in-rising-water](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
