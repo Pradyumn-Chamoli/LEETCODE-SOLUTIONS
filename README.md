@@ -20,6 +20,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
