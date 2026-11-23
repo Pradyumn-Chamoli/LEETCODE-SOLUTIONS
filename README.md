@@ -93,6 +93,7 @@
 | [1020-number-of-enclaves](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
@@ -244,6 +245,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -309,6 +311,7 @@
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -495,6 +498,7 @@
 | [0836-rectangle-overlap](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1510-stone-game-iv) |
@@ -641,6 +645,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Pradyumn-Chamoli/LEETCODE-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
